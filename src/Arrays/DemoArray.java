@@ -6,7 +6,7 @@ public class DemoArray {
 	
 	public static void main(String[]args)
 	{
-		int[] arr1= {1,2,3,4,5,6,6,7,7,8};
+		int[] arr1= {1,2,3,4,5,6,7,8};
 		printArray(arr1);
 	}
 
